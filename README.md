@@ -30,21 +30,6 @@ dart pub get
 dart run bin/main.dart
 ```
 
-## 📂 Project Structure
-```
-bin/
-  main.dart          # Entry point
-lib/
-  data_structures/   # Core implementations
-    stack.dart
-    node.dart 
-    linked_list.dart
-  challenges/        # Solution files
-    stack_challenges.dart
-    linked_list_challenges.dart
-test/                # Unit tests
-```
-
 ## 📋 Implemented Challenges
 1. **Stack Challenges**:
    - List reversal using stack
